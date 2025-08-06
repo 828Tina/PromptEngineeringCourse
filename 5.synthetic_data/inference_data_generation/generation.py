@@ -6,7 +6,7 @@ from tqdm import tqdm
 
 client = OpenAI(
     # 若没有配置环境变量，请用百炼API Key将下行替换为：api_key="sk-xxx",
-    api_key="sk-c7523d668bfb4100ab8d7c67090e143b",
+    api_key="sk-",
     base_url="https://dashscope.aliyuncs.com/compatible-mode/v1"
 )
 
