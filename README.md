@@ -171,16 +171,16 @@ def openai_completion(
 ## 📚课程目录
 
 
-| 教程章节   | 核心内容 |  
-|:--------|:------|
-| [1.前置准备](./1.preparatory_work_in_advance)   | 模型安装、平台选择、模型选择(base,instruct,reasoning)   |
-| [2.提示词撰写技巧](./2.tips_for_prompt)   | 提示词结构、提示词要素、思维链等   |
-| [3.常见任务示例](./3.common_task_examples)   | 文本摘要、数学计算、多轮对话等   | 
-| [4.多模态提示词](./4.multimodal_prompt)   | 多模态提示词使用示例   | 
-| [5.合成数据](./5.synthetic_data)   | 预训练、微调、推理数据集合成代码实践   | 
-| [6.RAG](./6.RAG)   | RAG实践   | 
-| [7.Agent](./7.Agent)   | 函数调用、MCP实践、Agents原理   | 
-| [8.提示词与上下文工程](xxx)   | 提示词工程与上下文工程区别  | 
+| 教程章节   | 核心内容 |  状态  |
+|:--------|:------|:------|
+| [1.前置准备](./1.preparatory_work_in_advance)   | 模型安装、平台选择、模型选择(base,instruct,reasoning)   |✅|
+| [2.提示词撰写技巧](./2.tips_for_prompt)   | 提示词结构、提示词要素、思维链等   |✅|
+| [3.常见任务示例](./3.common_task_examples)   | 文本摘要、数学计算、多轮对话等   | ✅|
+| [4.多模态提示词](./4.multimodal_prompt)   | 多模态提示词使用示例   | ✅|
+| [5.合成数据](./5.synthetic_data)   | 预训练、微调、推理数据集合成代码实践   | ✅|
+| [6.RAG](./6.RAG)   | RAG实践   | ✅|
+| [7.Agent](./7.Agent)   | 函数调用、MCP实践、Agents原理   | ✅|
+| 8.提示词与上下文工程  | 提示词工程与上下文工程区别  | ⏳|
 
 
 ---
